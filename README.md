@@ -5,7 +5,8 @@ Blockchain-based botanical traceability system for Ayurvedic herbs.
 ## Problem
 The Ayurvedic herbal supply chain suffers from fragmented records, uncertain provenance, quality risks and limited consumer transparency.
 
-## Solution
+## Solution ##
+
 A permissioned blockchain platform that tracks Ayurvedic herbs from geo-tagged collection through processing, laboratory testing and final product formulation.
 
 ## Pilot
