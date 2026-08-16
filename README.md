@@ -21,7 +21,7 @@ Ashwagandha
 - AI/Analytics
 
 ## Repository Structure
-```
+
 CHA-191/
 ├── README.md
 ├── AI_CONTEXT.md
